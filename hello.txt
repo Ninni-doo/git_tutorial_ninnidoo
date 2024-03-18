@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 1 line
 Second line
-3 line
->>>>>>> Stashed changes
+>>>>>>> 1869e93 (First_practice commit from new_branch_practice)
